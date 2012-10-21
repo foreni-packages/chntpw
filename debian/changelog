@@ -1,3 +1,9 @@
+chntpw (0.99.6-3) kali; urgency=low
+
+  * Added Kali desktop file
+
+ -- dookie <dookie@kali.org>  Sun, 21 Oct 2012 12:35:52 -0600
+
 chntpw (0.99.6-2) unstable; urgency=low
 
   * Add patches provided by Fedora to fix regex -x crahses, see 
