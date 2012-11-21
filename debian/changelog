@@ -1,3 +1,9 @@
+chntpw (0.99.6-3kali2) kali; urgency=low
+
+  * Fixed the desktop file installation
+
+ -- dookie <dookie@kali.org>  Wed, 21 Nov 2012 13:25:55 -0700
+
 chntpw (0.99.6-3kali1) kali; urgency=low
 
   * Kali Version
