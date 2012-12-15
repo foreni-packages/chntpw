@@ -43,7 +43,6 @@ install: build
 	dh_testroot
 	dh_clean -k
 	dh_installdirs
-	install debian/kali-chntpw.desktop $(CURDIR)/debian/chntpw/usr/share/applications/
 	install -m 755 chntpw $(CURDIR)/debian/chntpw/usr/sbin/
 
 
